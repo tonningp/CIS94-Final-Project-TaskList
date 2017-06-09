@@ -1,8 +1,6 @@
 <form class="form-horizontal">
 <fieldset>
 
-<!-- Form Name -->
-<legend><?php echo $page->legend; ?></legend>
 
 <!-- Text input-->
 <div class="form-group">
