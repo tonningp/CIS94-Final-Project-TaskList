@@ -3,7 +3,7 @@
 include 'Page.php';
 $page = new Page();
 $page->title = 'Add Task';
-
+$current_script = 'add.php';
 include 'header.php';
 include 'form_tpl.php';
 include 'footer.php';
