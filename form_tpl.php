@@ -1,4 +1,4 @@
-<form class="form-horizontal">
+<form action="$current_script" method="post" class="form-horizontal">
 <fieldset>
 
 
