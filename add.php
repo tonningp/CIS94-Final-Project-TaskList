@@ -11,6 +11,7 @@ include 'Task.php';
 
 
 
+// Teacher comment This function does not add a task.
 function addTask($input) {
 
     $file = file('info.csv');
